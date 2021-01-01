@@ -1,0 +1,258 @@
+1.
+UMUM (lanjutan)
+d. Entitas anak (lanjutan)
+(c) TII (lanjutan)
+Sejak tanggal akuisisi hingga tanggal 31 Desember 2018, jumlah pendapatan dan rugi sebelum
+pajak Telin Malaysia yang diakui dalam laporan laba rugi dan penghasilan komrehensif lain
+adalah masing-masing sebesar Rp23 miliar dan Rp20 miliar. Jika akuisisi dilakukan sejak awal
+periode pelaporan, maka jumlah pendapatan dan rugi sebelum pajak yang diakui oleh Telin
+Malaysia dan diakui dalam laporan laba rugi dan penghasilan komprehensif lainnya adalah
+masing-masing sebesar MYR13.323.065 (setara dengan Rp47 miliar) dan MYR7.888.930 (setara
+dengan Rp28 miliar).
+e. Penyelesaian dan kewenangan penerbitan laporan keuangan konsolidasian
+Manajemen Perusahaan bertanggung jawab atas penyusunan dan penyajian wajar laporan keuangan
+konsolidasian ini sesuai dengan Standar Akuntansi Keuangan di Indonesia, yang telah disetujui dan
+diotorisasi untuk diterbitkan oleh Direksi Perusahaan pada tanggal 29 April 2019.
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN
+Laporan keuangan konsolidasian Grup disusun sesuai dengan Standar Akuntansi Keuangan (“SAK”) di
+Indonesia yang mencakup Pernyataan Standar Akuntansi Keuangan (“PSAK”) di Indonesia dan
+Interpretasi Standar Akuntansi Keuangan (“ISAK”) di Indonesia yang dikeluarkan oleh Dewan Standar
+Akuntansi Keuangan Ikatan Akuntan Indonesia dan Peraturan Badan Pengawas Pasar Modal dan
+Lembaga Keuangan (Bapepam-LK) No. VIII.G.7 tentang “Penyajian dan Pengungkapan Laporan
+Keuangan Emiten atau Perusahaan Publik”, yang terlampir dalam surat KEP-347/BL/2012.
+a. Dasar penyusunan laporan keuangan
+Laporan keuangan konsolidasian, kecuali untuk laporan arus kas konsolidasian, disusun dengan
+dasar akrual. Laporan keuangan konsolidasian juga disusun dengan dasar harga perolehan, kecuali
+untuk akun tertentu yang diukur dengan menggunakan dasar seperti yang disebutkan dalam catatan
+yang relevan.
+Laporan arus kas konsolidasian disusun dengan menggunakan metode langsung dan menyajikan
+perubahan kas dan setara kas dari kegiatan operasi, investasi, dan pendanaan.
+Angka-angka dalam laporan keuangan konsolidasian ini disajikan dalam dan dibulatkan menjadi
+miliaran Rupiah (“Rp”), kecuali dinyatakan lain.
+Standar Akuntansi yang Telah Disahkan Namun belum Berlaku Efektif
+Berlaku efektif 1 Januari 2019:
+• Amandemen PSAK 22: Kombinasi Bisnis
+Amandemen ini mengklarifikasi bahwa ketika salah satu pihak dalam suatu pengaturan bersama,
+memperoleh pengendalian atas bisnis yang merupakan suatu operasi bersama (sebagaimana
+didefinisikan dalam PSAK 66), dan memiliki hak atas aset dan kewajiban atas liabilitas terkait
+dengan operasi bersama tersebut sesaat sebelum tanggal akuisisi, transaksi tersebut adalah
+kombinasi bisnis yang dilakukan secara bertahap. Pihak pengakuisisi menerapkan persyaratan
+untuk kombinasi bisnis yang dilakukan secara bertahap, termasuk pengukuran kembali
+kepentingan yang dimiliki sebelumnya dalam operasi bersama pada nilai wajarnya.
+17PERUSAHAAN PERSEROAN (PERSERO)
+PT TELEKOMUNIKASI INDONESIA Tbk. DAN ENTITAS ANAKNYA
+CATATAN ATAS LAPORAN KEUANGAN KONSOLIDASIAN
+Tanggal 31 Desember 2018 dan untuk Tahun yang Berakhir pada Tanggal Tersebut
+(Angka dalam tabel dinyatakan dalam miliaran Rupiah, kecuali dinyatakan lain)
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN (lanjutan)
+a. Dasar penyusunan laporan keuangan (lanjutan)
+Berlaku efektif 1 Januari 2019 (lanjutan):
+• Amandemen PSAK 24: Imbalan Kerja tentang Amendemen, Kurtailmen, atau Penyelesaian
+Program
+Amandemen ini memberikan panduan yang lebih jelas bagi entitas dalam mengakui biaya jasa lalu,
+keuntungan dan kerugian penyelesaian, biaya jasa kini dan bunga neto setelah adanya
+amendemen, kurtailmen, atau penyelesaian program karena menggunakan asumsi aktuarial
+terbaru (sebelumnya menggunakan asumsi akturial pada awal periode pelaporan tahunan). Selain
+itu, Amendemen ini juga mengklarifikasi bagaimana persyaratan akuntansi untuk amendemen,
+kurtailmen, atau penyelesaian program dapat mempengaruhi persyaratan batas atas aset yang
+terlihat dari pengurangan surplus yang menyebabkan dampak batas atas aset berubah.
+• Amandemen PSAK 26: Biaya Pinjaman tentang Biaya Pinjaman yang Dapat Dikapitalisasi
+Amandemen ini mengklarifikasi bahwa tarif kapitalisasi biaya pinjaman adalah rata-rata tertimbang
+biaya pinjaman atas semua saldo pinjaman selama periode namun entitas mengecualikan dari
+perhitungan tersebut biaya pinjaman atas pinjaman yang didapatkan secara spesifik untuk
+memperoleh aset kualifikasian sampai secara substansial seluruh aktivitas yang diperlukan untuk
+mempersiapkan aset agar dapat digunakan sesuai dengan intensinya atau dijual telah selesai.
+• Amandemen PSAK 46: Pajak Penghasilan
+Amandemen ini mengklarifikasi bahwa entitas mengakui konsekuensi pajak penghasilan atas
+dividen sebagaimana didefinisikan dalam PSAK 71: Instrumen Keuangan ketika entitas mengakui
+liabilitas untuk membayar dividen. Entitas mengakui konsekuensi pajak penghasilan tersebut
+dalam laba rugi, penghasilan komprehensif lain atau ekuitas sesuai dengan pengakuan awal
+entitas atas transaksi atau peristiwa masa lalu tersebut.
+• Amandemen PSAK 66: Pengaturan Bersama
+Amandemen ini mengklarifikasi bahwa pihak yang berpartisipasi dalam, tetapi tidak memiliki
+pengendalian bersama atas, suatu operasi bersama dapat memperoleh pengendalian bersama
+atas operasi bersama dalam hal aktivitas operasi bersama merupakan suatu bisnis (sebagaimana
+didefinisikan dalam PSAK 22: Kombinasi Bisnis). Dalam kasus demikian, kepentingan yang dimiliki
+sebelumnya dalam operasi bersama tidak diukur kembali.
+• ISAK 33: Transaksi Valuta Asing dan Imbalan di Muka
+ISAK 33 mendefinisikan bahwa tanggal dimana entitas pertama kali mengakui aset nonmoneter
+atau liabilitas nonmoneter yang timbul dari pembayaran atau penerimaan imbalan dimuka adalah
+tanggal transaksi sebagaimana dimaksud PSAK 10 paragraf 22, yaitu tanggal transaksi dengan
+tujuan untuk menentukan kurs yang digunakan dalam pengakuan awal aset, liabilitas atau
+penghasilan terkait (atau bagian darinya).
+18PERUSAHAAN PERSEROAN (PERSERO)
+PT TELEKOMUNIKASI INDONESIA Tbk. DAN ENTITAS ANAKNYA
+CATATAN ATAS LAPORAN KEUANGAN KONSOLIDASIAN
+Tanggal 31 Desember 2018 dan untuk Tahun yang Berakhir pada Tanggal Tersebut
+(Angka dalam tabel dinyatakan dalam miliaran Rupiah, kecuali dinyatakan lain)
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN (lanjutan)
+a. Dasar penyusunan laporan keuangan (lanjutan)
+Berlaku efektif 1 Januari 2019 (lanjutan):
+• ISAK 34: Ketidakpastian dalam Perlakuan Pajak Penghasilan
+ISAK 34 mengklarifikasi bagaimana menerapkan persyaratan pengakuan dan pengukuran dalam
+PSAK 46 “Pajak Penghasilan” ketika terdapat ketidakpastian dalam perlakuan pajak penghasilan.
+Ketika terdapat ketidakpastian dalam perlakuan pajak penghasilan, ISAK 34 mengatur:
+- apakah entitas mempertimbangkan perlakuan pajak tidak pasti secara terpisah;
+- asumsi yang dibuat entitas tentang pemeriksaan atas perlakuan pajak oleh otoritas perpajakan;
+- bagaimana entitas menentukan laba kena pajak (rugi pajak), dasar pengenaan pajak, rugi pajak
+yang belum digunakan, kredit pajak yang belum digunakan, dan tarif pajak; dan
+- bagaimana entitas mempertimbangkan perubahan dalam fakta dan keadaan.
+Berlaku efektif 1 Januari 2020:
+• PSAK 71: Instrumen Keuangan
+PSAK 71 merevisi persyaratan terkait klasifikasi dan pengukuran instrumen keuangan, termasuk
+model kerugian kredit ekspektasian untuk menghitung penurunan nilai aset keuangan, dan
+persyaratan akuntansi lindung nilai secara umum yang baru. PSAK ini tetap mempertahankan
+kriteria pengakuan dan penghentian pengakuan instrumen keuangan yang sebelumnya diatur
+dalam PSAK 55: Instrumen Keuangan: Pengakuan dan Pengukuran. PSAK 71 menggantikan
+ketentuan akuntansi instrumen keuangan yang saat ini diatur dalam PSAK 55: Instrumen
+Keuangan: Pengakuan dan Pengukuran.
+• PSAK 72: Pendapatan dari Kontrak dengan Pelanggan
+PSAK 72 menetapkan kerangka yang komprehensif untuk menentukan bagaimana, kapan dan
+seberapa besar suatu pendapatan dapat diakui. PSAK ini memperkenalkan model lima langkah
+untuk penentuan dan pengakuan pendapatan untuk diterapkan kepada semua kontrak dengan
+pelanggan. PSAK ini juga memberikan panduan spesifik yang mewajibkan beberapa jenis biaya
+untuk mendapatkan dan atau memenuhi kontrak untuk dikapitalisasi dan diamortisasi secara
+sistematis mengacu kepada transfer barang dan jasa kepada pelanggan.
+PSAK 72 menggantikan sejumlah standar akuntansi pendapatan yang ada saat ini, termasuk
+PSAK 23: Pendapatan, PSAK 34: Kontrak Konstruksi dan ISAK 10: Program Loyalitas Pelanggan.
+•
+PSAK 73: Sewa
+PSAK 73 menetapkan prinsip pengakuan, pengukuran, penyajian dan pengungkapan atas sewa
+dan mensyaratkan penyewa untuk mengukur seluruh sewa menggunakan model akuntansi tunggal
+yang sama dengan akuntansi sewa pembiayaan menurut PSAK 30. PSAK 73 memberikan dua
+pengecualian kepada penyewa terkait model akuntansi tersebut, yaitu untuk sewa dengan aset
+pendasar bernilai rendah dan sewa dengan jangka waktu 12 bulan atau kurang. Pada saat
+dimulainya masa sewa, penyewa akan mengakui kewajiban untuk melakukan pembayaran sewa
+dan aset yang mewakili hak untuk menggunakan aset pendasar selama masa sewa. Penyewa juga
+secara terpisah akan mengakui beban bunga atas kewajiban sewa dan biaya penyusutan pada
+aset sewa.
+Akuntansi untuk pesewa berdasarkan PSAK 73 secara substansial tidak berubah dari akuntansi
+yang diatur dalam PSAK 30. Pesewa akan melanjutkan pengklasifikasian seluruh sewa
+berdasarkan prinsip klasifikasi sebagaimana yang saat ini diatur dalam PSAK 30.
+PSAK 73 menggantikan PSAK 30: Sewa dan ISAK 8: Penentuan Apakah Suatu Perjanjian
+Mengandung Sewa.
+19PERUSAHAAN PERSEROAN (PERSERO)
+PT TELEKOMUNIKASI INDONESIA Tbk. DAN ENTITAS ANAKNYA
+CATATAN ATAS LAPORAN KEUANGAN KONSOLIDASIAN
+Tanggal 31 Desember 2018 dan untuk Tahun yang Berakhir pada Tanggal Tersebut
+(Angka dalam tabel dinyatakan dalam miliaran Rupiah, kecuali dinyatakan lain)
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN (lanjutan)
+a. Dasar penyusunan laporan keuangan (lanjutan)
+Berlaku efektif 1 Januari 2020 (lanjutan):
+• Amandemen PSAK 15: Investasi pada Entitas Asosiasi dan Ventura Bersama tentang Kepentingan
+Jangka Panjang pada Entitas Asosiasi dan Ventura Bersama
+Amandemen ini mengatur bahwa entitas juga menerapkan PSAK 71 atas instrumen keuangan
+pada entitas asosiasi atau ventura bersama dimana metode ekuitas tidak diterapkan. Hal ini
+termasuk kepentingan jangka panjang yang secara substansi membentuk bagian investasi neto
+entitas pada entitas asosiasi atau ventura bersama.
+• Amandemen PSAK 71: Instrumen Keuangan tentang Fitur Percepatan Pelunasan dengan
+Kompensasi Negatif
+Amandemen ini mengatur bahwa aset keuangan dengan fitur percepatan pelunasan yang dapat
+menghasilkan kompensasi negatif memenuhi kualifikasi sebagai arus kas kontraktual yang berasal
+semata dari pembayaran pokok dan bunga dari jumlah pokok terutang.
+• Amandemen PSAK 62: Kontrak Asuransi - Menerapkan PSAK 71: Instrumen Keuangan dengan
+PSAK 62: Kontrak Asuransi akan berlaku efektif 1 Januari 2022, namun amandemen tersebut tidak
+berdampak bagi laporan konsolidasian Grup.
+b. Prinsip konsolidasi
+Laporan keuangan konsolidasian meliputi laporan keuangan Perusahaan dan entitas anak dimana
+Perusahaan memiliki kendali. Pengendalian timbul ketika Grup terekspos atau memiliki hak atas imbal
+hasil variabel dari keterlibatannya dengan investee dan memiliki kemampuan untuk mempengaruhi
+imbal hasil tersebut melalui kekuasaannya atas investee. Secara spesifik, Grup mengendalikan
+investee jika dan hanya jika Grup memiliki kekuasaan atas investee, eksposur atau hak, atas imbal
+hasil variabel dari keterlibatannya dengan investee, dan kemampuan untuk menggunakan
+kekuasaannya atas investee untuk mempengaruhi imbal hasil.
+Grup menilai kembali apakah Grup mengendalikan investee jika fakta dan keadaan mengindikasikan
+adanya perubahan terhadap satu atau lebih dari tiga elemen pengendalian. Entitas anak dikonsolidasi
+sejak tanggal ketika Grup memperoleh pengendalian secara efektif dan tidak dikonsolidasikan lagi
+sejak tanggal Grup kehilangan pengendalian. Aset, liabilitas, pendapatan, dan beban entitas anak
+yang diperoleh atau dilepaskan selama periode berjalan dimasukkan ke dalam laporan keuangan
+konsolidasian sejak tanggal ketika Grup memperoleh pengendalian hingga tanggal sejak Grup
+kehilangan pengendalian.
+20PERUSAHAAN PERSEROAN (PERSERO)
+PT TELEKOMUNIKASI INDONESIA Tbk. DAN ENTITAS ANAKNYA
+CATATAN ATAS LAPORAN KEUANGAN KONSOLIDASIAN
+Tanggal 31 Desember 2018 dan untuk Tahun yang Berakhir pada Tanggal Tersebut
+(Angka dalam tabel dinyatakan dalam miliaran Rupiah, kecuali dinyatakan lain)
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN (lanjutan)
+b. Prinsip konsolidasi (lanjutan)
+Laba atau rugi dan setiap komponen pendapatan komprehensif lain diatribusikan pada pemilik
+Perusahaan dan pada kepentingan nonpengendali, meskipun hal ini akan mengakibatkan timbulnya
+saldo defisit pada kepentingan nonpengendali.
+Saldo dan transaksi antar perusahaan yang signifikan telah dieliminasi pada laporan keuangan
+konsolidasian.
+Saat Grup kehilangan pengendalian atas entitas anak, maka Grup:
+• menghentikan pengakuan aset (termasuk setiap goodwill) dan liabilitas entitas anak pada nilai
+tercatatnya ketika pengendalian hilang;
+• menghentikan pengakuan jumlah tercatat setiap kepentingan nonpengendali pada entitas anak
+terdahulu pada tanggal hilangnya pengendalian;
+• mengakui nilai wajar pembayaran yang diterima (jika ada) dari transaksi, peristiwa atau keadaan
+yang mengakibatkan hilangnya pengendalian;
+• mengakui setiap sisa investasi pada entitas anak terdahulu pada nilai wajarnya pada tanggal
+hilangnya pengendalian;
+• mengakui setiap perbedaan yang dihasilkan sebagai keuntungan atau kerugian dalam laporan laba
+rugi yang dapat diatribusikan pada pemilik Perusahaan.
+c. Transaksi dengan pihak berelasi
+Grup mempunyai transaksi dengan pihak berelasi. Definisi pihak berelasi yang digunakan sesuai
+dengan Peraturan Bapepam-LK No. VIII.G.7 tentang Penyajian dan Pengungkapan Laporan
+Keuangan Emiten atau Perusahaan Publik, yang terlampir dalam surat keputusan
+No.KEP-347/BL/2012. Pihak-pihak yang dipertimbangkan sebagai pihak berelasi adalah orang atau
+entitas yang terkait dengan entitas yang menyiapkan laporan keuangannya.
+Berdasarkan Peraturan Bapepam-LK No. VIII.G.7 tersebut, entitas berelasi dengan pemerintah
+merupakan entitas yang dikendalikan, dikendalikan bersama, atau dipengaruhi secara signifikan oleh
+pemerintah. Pemerintah dalam hal ini adalah Menteri Keuangan atau Pemerintah Daerah yang
+merupakan pemegang saham dari entitas.
+Personil manajemen kunci adalah orang-orang yang mempunyai kewenangan dan tanggung jawab
+untuk merencanakan, memimpin, dan mengendalikan aktivitas entitas, secara langsung atau tidak
+langsung, termasuk direktur (baik eksekutif maupun bukan eksekutif) dari Grup. Status pihak berelasi
+diperluas sampai dengan manajemen kunci dari entitas anak sampai dengan tingkatan mereka
+mengarahkan operasi entitas anak dengan tingkat keterlibatan minimal dari manajemen Perusahaan.
+21PERUSAHAAN PERSEROAN (PERSERO)
+PT TELEKOMUNIKASI INDONESIA Tbk. DAN ENTITAS ANAKNYA
+CATATAN ATAS LAPORAN KEUANGAN KONSOLIDASIAN
+Tanggal 31 Desember 2018 dan untuk Tahun yang Berakhir pada Tanggal Tersebut
+(Angka dalam tabel dinyatakan dalam miliaran Rupiah, kecuali dinyatakan lain)
+2.
+IKHTISAR KEBIJAKAN AKUNTANSI YANG SIGNIFIKAN (lanjutan)
+d. Kombinasi bisnis
+Kombinasi bisnis dicatat dengan metode akuisisi. Imbalan yang dialihkan diukur sebesar nilai
+wajarnya, yang merupakan agregat dari nilai wajar aset yang dialihkan, liabilitas yang diambil alih dan
+instrumen ekuitas yang diterbitkan sebagai pertukaran atas pengendalian dari pihak yang diakuisisi.
+Untuk setiap kombinasi bisnis, kepentingan nonpengendali diukur pada nilai wajar atau pada proporsi
+kepemilikan nonpengendali atas aset neto teridentifikasi dari entitas yang diakuisisi. Pilihan dasar
+pengukuran dibuat berdasarkan basis tiap transaksi. Biaya terkait akuisisi dicatat sebagai beban pada
+saat timbulnya. Aset dan liabilitas yang teridentifikasi dari pihak yang diakuisisi diakui pada nilai wajar
+pada tanggal akuisisi.
+Goodwill awalnya diukur pada harga perolehan, yang merupakan selisih lebih dari nilai agregat
+imbalan yang dialihkan dan nilai yang diakui oleh kepentingan nonpengendali dan nilai kepentingan
+ekuitas yang dimiliki sebelumnya, atas jumlah neto dari aset teridentifikasi yang diperoleh dan liabilitas
+yang diambil alih. Jika nilai wajar dari jumlah neto aset yang diakuisisi melebihi nilai agregat imbalan
+yang dialihkan, Grup menilai kembali apakah semua aset yang diakuisisi dan liabilitas yang diambil
+alih sudah diidentifikasi dengan benar dan memeriksa prosedur yang digunakan untuk mengukur nilai
+yang harus diakui pada tanggal akuisisi. Jika hasil penilaian kembali tersebut masih menghasilkan
+selisih lebih atas nilai wajar dari aset neto diakuisisi atas nilai agregat imbalan yang dialihkan, maka
+keuntungan diakui pada laba atau rugi.
+Saat penentuan imbalan dari kombinasi bisnis termasuk imbalan kontinjensi, imbalan kontinjensi ini
+diukur pada nilai wajar saat tanggal akuisisi. Imbalan kontinjensi diklasifikasikan sebagai ekuitas atau
+liabilitas keuangan. Jumlah yang diklasifikasikan sebagai liabilitas keuangan selanjutnya diukur
+kembali pada nilai wajar dimana perubahan pada nilai wajar tersebut diakui dalam laba rugi atau ketika
+penyesuaian dicatat diluar periode pengukuran. Perubahan pada nilai wajar imbalan kontinjensi yang
+memenuhi persyaratan sebagai penyesuaian periode pengukuran, disesuaikan secara retrospektif,
+dengan penyesuaian terkait terhadap goodwill. Penyesuaian periode pengukuran adalah penyesuaian
+yang timbul dari informasi tambahan yang didapat selama periode pengukuran, yang tidak boleh
+melebihi satu tahun dari tanggal akusisi, tentang fakta dan kondisi yang ada pada saat tanggal
+akuisisi.
+Jika akuntansi awal untuk kombinasi bisnis belum selesai pada akhir periode pelaporan saat
+kombinasi bisnis terjadi, maka Grup akan melaporkan jumlah sementara untuk pos-pos yang proses
+akuntansinya belum selesai dalam laporan keuangan konsolidasian. Selama periode pengukuran,
+Grup menyesuaikan secara retrospektif jumlah sementara yang diakui pada tanggal akuisisi untuk
+mencerminkan informasi baru yang diperoleh tentang fakta dan keadaan yang ada pada tanggal
+akuisisi dan, jika diketahui, telah berdampak pada pengukuran jumlah yang diakui pada tanggal
+tersebut. Periode pengukuran berakhir segera setelah Perusahaan menerima informasi yang dicari
+tentang fakta dan keadaan yang ada pada tanggal akuisisi atau mempelajari bahwa informasi
+tambahan tidak dapat diperoleh. Namun demikian, periode pengukuran tidak boleh melebihi satu
+tahun dari tanggal akuisisi.
