@@ -1,0 +1,5 @@
+from transformers import AutoTokenizer, AutoModel
+tokenizer = AutoTokenizer.from_pretrained("sarahlintang/IndoBERT")
+model = AutoModel.from_pretrained("sarahlintang/IndoBERT")
+tokenizer.encode("hai aku mau makan.")
+[2, 8078, 1785, 2318, 1946, 18, 4]
